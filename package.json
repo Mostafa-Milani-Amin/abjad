@@ -1,0 +1,50 @@
+{
+  "name": "abjad-calc",
+  "version": "1.0.0",
+  "description": "Abjad calculator: calculate the abjad of a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mostafa-Milani-Amin/abjad.git"
+  },
+  "keywords": [
+    "abjad",
+    "calculator",
+    "string",
+    "calculate",
+    "math",
+    "writingsystem",
+    "writing",
+    "system",
+    "kabbalah",
+    "vowel",
+    "consonants",
+    "consonant",
+    "alphabets",
+    "alphabet",
+    "phonemic",
+    "scripts",
+    "javascript",
+    "js",
+    "arabic",
+    "persian",
+    "jafr",
+    "abcd",
+    "abc",
+    "hebrew",
+    "semitic",
+    "glyph",
+    "aramaic",
+    "numerology",
+    "gematria"
+  ],
+  "author": "Mostafa Milani Amin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mostafa-Milani-Amin/abjad/issues"
+  },
+  "homepage": "https://github.com/Mostafa-Milani-Amin/abjad#readme"
+}
