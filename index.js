@@ -55,4 +55,4 @@ const abjad = str => {
     return sum;
 };
 
-module.exports = { abjad };
+export default abjad;
