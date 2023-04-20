@@ -1,5 +1,5 @@
 const abjad = str => {
-    sum = 0;
+    let sum = 0;
     for (let i = 0; i < str.length; i++) {
         let letterValue = {
             أ: 1,
